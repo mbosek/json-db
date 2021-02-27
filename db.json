@@ -1,4 +1,11 @@
 {
- "owner": "Mateusz Bosek",
- "product": "T-shirt"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
