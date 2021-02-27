@@ -1,4 +1,12 @@
-{"profile": {
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
     "name": "Mateusz Bosek",
+      "product": "T-shirt"
   }
 }
