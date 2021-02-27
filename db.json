@@ -1,6 +1,4 @@
-{
-  "user": {
-    "owner": "Mateusz Bosek",
-    "product": "T-shirt"
+"profile": {
+    "name": "Mateusz Bosek",
+  "product": "T-shirt"
   }
-}
